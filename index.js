@@ -2,7 +2,7 @@ let nome = "Alan"
 let idade = 24
 let ano = 2021
 
-console.log ("Meu ano de nascimento é", idade - ano)
+console.log ("Meu ano de nascimento é", ano - idade)
 
 
 let souhumano = true
