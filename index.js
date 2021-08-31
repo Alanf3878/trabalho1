@@ -4,9 +4,8 @@ let ano = 2021
 
 console.log ("Meu ano de nascimento é", ano - idade)
 
-
 let souhumano = true
-let gato = 1
-let cachorro = 3 
+let n1 = 1
+let n2 = 3 
 
-console.log (gato + cachorro)
+console.log (n1 + n2)
